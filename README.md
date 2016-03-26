@@ -3,8 +3,7 @@
 ***Created by Max Sheikhizadeh***
 
 ## description:
-
-- This is a MEAN RESTful Responsive Mailing List App. It runs based on Mongodb database.
+- This is a MEAN RESTful Responsive Mailing List App. Database used for this app is Mongodb.
 - Bootstrap, AngularJS, Express, and Node used for this application.
 
 
