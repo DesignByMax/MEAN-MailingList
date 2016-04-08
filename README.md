@@ -1,17 +1,33 @@
 # Mailing List App
+---------------------
 
-***Created by Max Sheikhizadeh***
+# Getting Started
 
-## description:
-- This is a MEAN RESTful Responsive Mailing List App. Database used for this app is Mongodb.
-- Bootstrap, AngularJS, Express, and Node used for this application.
-
-
-## Run the app:
-- npm run server
-- run mongodb on your system.
-- go to localhost:3000 to experience with the app.
+This is an angular app based on MEAN stack featuring RESTful API. The database used for this app is MongoDB which is NoSQL database.
 
 
 
+# Install
 
+```
+npm install
+
+# install mongoDB and run it
+
+run mongodb 
+
+```
+
+# Start server
+
+```
+npm run server
+```
+
+# View the app
+
+Go to following address to view the app:
+
+```
+http://localhost:3000
+```
