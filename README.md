@@ -1,30 +1,29 @@
 # Mailing List App
----------------------
 
-# Getting Started
+## Getting Started
 
 This is an angular app based on MEAN stack featuring RESTful API. The database used for this app is MongoDB which is NoSQL database.
 
 
 
-# Install
+## Install
 
 ```
 npm install
 
-# install mongoDB and run it
+## install mongoDB and run it
 
 run mongodb 
 
 ```
 
-# Start server
+## Start server
 
 ```
 npm run server
 ```
 
-# View the app
+## View the app
 
 Go to following address to view the app:
 
